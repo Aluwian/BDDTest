@@ -1,3 +1,5 @@
 requests
 behave
 flake8
+factory_boy
+Faker

@@ -1,4 +1,4 @@
-from helpers.fake_note_factory import *
+from helpers.fake_note_factory import NoteFactory
 from helpers.send_request import SendRequest
 
 
